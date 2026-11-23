@@ -66,7 +66,7 @@ Website: https://www.kiwisiot.in/
 
 Arduino Library: https://github.com/Kiwistron/KiwisIoT
 
-Example Projects: https://github.com/Kiwistron/KiwisIoT-Projects/tree/main
+Example Projects: https://github.com/Kiwistron/KiwisIoT-Projects/
 
 If you are exploring IoT-based monitoring projects, KiwisIoT is a platform worth trying.
 
